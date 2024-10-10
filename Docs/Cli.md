@@ -3,4 +3,4 @@ copy is used to copy files
 ren is used to rename files
 
 
-[CLI commands](Docs/cli.md)
+[CLI commands](Docs/Cli.md)
